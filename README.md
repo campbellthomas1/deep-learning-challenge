@@ -6,3 +6,6 @@
 - Step 2: Compile, Train, and Evaluate the Model
 - Step 3: Optimize the Model
 - Step 4: Write a Report on the Neural Network Model
+
+## Challenges
+- I struggled a little but with getting the accuract above 80%, sometimes I was not sure if I shoudl change the neurons, layers, or activation functions. I think getting rid of columns helped but maybe I was getting rid of the wrong ones. It is interesting to see the machine learn and adapt as you change features.
